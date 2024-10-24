@@ -1,0 +1,734 @@
+Usuario: hola
+Chatbot: Hola,  ¿en qué te puedo ayudar?
+Usuario: hola
+Chatbot: Hola,  ¿en qué te puedo ayudar?
+Usuario: estudio computaicon
+Usuario: estudio computacion
+Usuario: que carrera estudio?
+Usuario: en que carreraa estoy
+Usuario: hola
+Chatbot: Hola,  ¿en qué te puedo ayudar?
+Usuario: estudio computacion
+Usuario: que carrera estudio
+Usuario: hola
+Chatbot: Hola,  ¿en qué te puedo ayudar?
+Usuario: que materias debo de estudiar en el tercer trimestre
+Chatbot: Adiós
+Usuario: cual es la serializacion de sistemas operativos
+Usuario: por que no sirves
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: que materias necesito para hacer la movilidad
+Chatbot: Para realizar la movilidad se debe:
+ - Tener cubierto al menos el 50% de los créditos académicos del plan de estudios al que pertenecen.
+ - Estar inscrito al trimestre correspondiente con o sin carga académica.
+ - Contar con 8.0 un promedio mínimo para postular a la mayoría de universidades y para la unidad Azcapozalco.
+ - Para las licenciaturas en Administración, Derecho, Diseño, Ciencias de la Comunicación e Ingeniería en Computación, es necesario tener cubierto el nivel de formación básica.
+Usuario: que ueas necesito para hacer la movilidad
+Chatbot: Para realizar la movilidad se debe:
+ - Tener cubierto al menos el 50% de los créditos académicos del plan de estudios al que pertenecen.
+ - Estar inscrito al trimestre correspondiente con o sin carga académica.
+ - Contar con 8.0 un promedio mínimo para postular a la mayoría de universidades y para la unidad Azcapozalco.
+ - Para las licenciaturas en Administración, Derecho, Diseño, Ciencias de la Comunicación e Ingeniería en Computación, es necesario tener cubierto el nivel de formación básica.
+Usuario: cuales ueas debo de cursar para movilidad
+Chatbot: La movilidad se puede hacer en cualquier momento una vez se cumplan los requisitos.
+Usuario: cuales ueas debo de haber aprobado para movilidad
+Usuario: que carrera estudio
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: en que carrera estoy
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: estudio computacion
+Usuario: que carrera estudio
+Chatbot: Estudias la carrera de computacion
+Usuario: que carrera estudio
+Chatbot: Lo siento, no tengo información sobre que carrera estudias
+Usuario: hola
+Chatbot: Hola,  ¿en qué te puedo ayudar?
+Usuario: estudio computacion
+Usuario: cual es la serializacion de sistemas distribuidos
+Chatbot: Para cursar la UEA Sistemas Distribuidos necesitas haber aprobado las siguientes UEA's:
+- Programación Estructurada
+- Sistemas Digitales
+- Estructuras de Datos No Lineales
+- Estructuras de Datos Lineales
+- Arquitectura de Computadoras
+- Sistemas Operativos
+- Programación Orientada a Objetos
+- Microcontroladores
+- Taller de Algoritmos
+Esta UEA no es requisito para ninguna otra UEA
+Usuario: hola
+Chatbot: Hola,  ¿en qué te puedo ayudar?
+Usuario: cuando me debo de reincribir
+Chatbot: Si se necesita inscribir una UEA después del proceso de reinscripción, puede haber una segunda oportunidad. Además durante el tercer día de la primera semana de clases se puede solicitar la inscripción de UEAs.
+Usuario: cuando son las fechas de reinscripcion
+Chatbot: Se realizará el primer día de la semana de reinscripción según el calendario escolar vigente. http://www.uam.mx/calendario/index.html
+Usuario: estudio computacion
+Usuario: que carrera estudio
+Chatbot: Estudias la carrera de computacion
+Usuario: hay alguna materia que sea administracion y configuracion de redes de computadorasnecesaria par cursar 
+Chatbot: Lo siento, no tengo información sobre la UEA administracion y configuracion de redes de computadorasnecesaria. Por favor verifica que el nombre sea correcto
+Usuario: hay alguna materia que sea necesaria administracion y configuracion de redes de computadoras
+Chatbot: Lo siento, no tengo información sobre la UEA administracion y configuracion de redes de computadoras. Por favor verifica que el nombre sea correcto
+Usuario: que carrera estudio
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: estudio computacion
+Usuario: hay alguna materia que sea necesaria par cursar administracion y configuracion de redes de computadoras
+Chatbot: Lo siento, no tengo información sobre la UEA administracion y configuracion de redes de computadoras. Por favor verifica que el nombre sea correcto
+Usuario: que carrera estudio
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: hay alguna materia que sea necesaria par cursar 4213059
+Chatbot: Lo siento, no tengo información sobre la UEA 4213059. Por favor verifica que el nombre sea correcto
+Usuario: hay alguna materia que sea necesaria par cursar la uea con clave 4213059
+Chatbot: Lo siento, no tengo información sobre la UEA con clave 4213059. Por favor verifica que el nombre sea correcto
+Usuario: estudio computacion
+Usuario: hay alguna materia que sea necesaria par cursar la uea con clave 4213059
+Usuario: hay alguna materia que sea necesaria par cursar la uea con clave 4213059
+Chatbot: Adiós
+Usuario: estudio computacion
+Usuario: hay alguna materia que sea necesaria par cursar la uea con clave 4213059
+Chatbot: Lo siento, no tengo información sobre que UEA deseas serializar
+Usuario: hay alguna materia que sea necesaria par cursar sistemas operativos
+Chatbot: Para cursar la UEA Sistemas Operativos necesitas haber aprobado las siguientes UEA's:
+- Estructuras de Datos Lineales
+- Microcontroladores
+- Programación Orientada a Objetos
+- Programación Estructurada
+- Arquitectura de Computadoras
+- Estructuras de Datos No Lineales
+- Sistemas Digitales
+- Taller de Algoritmos
+Y necesitas haber aprobado esta UEA para cursar:
+- Sistemas Distribuidos
+- Introducción a las Redes de Computadoras
+Usuario: hay alguna materia que sea 4601093necesaria par cursar 4213063
+Chatbot: Para cursar la UEA Sistemas Operativos necesitas haber aprobado las siguientes UEA's:
+- Estructuras de Datos Lineales
+- Microcontroladores
+- Programación Orientada a Objetos
+- Programación Estructurada
+- Arquitectura de Computadoras
+- Estructuras de Datos No Lineales
+- Sistemas Digitales
+- Taller de Algoritmos
+Y necesitas haber aprobado esta UEA para cursar:
+- Sistemas Distribuidos
+- Introducción a las Redes de Computadoras
+Usuario: hay alguna materia que sea necesaria par cursar 4601093
+Chatbot: Para cursar la UEA Sistemas Operativos necesitas haber aprobado las siguientes UEA's:
+- Estructuras de Datos Lineales
+- Microcontroladores
+- Programación Orientada a Objetos
+- Programación Estructurada
+- Arquitectura de Computadoras
+- Estructuras de Datos No Lineales
+- Sistemas Digitales
+- Taller de Algoritmos
+Y necesitas haber aprobado esta UEA para cursar:
+- Sistemas Distribuidos
+- Introducción a las Redes de Computadoras
+Usuario: Hola. Estudio computación y quiero saber que UEAs debo cursar en el tercer trimestre
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: estudio computacion
+Usuario: que UEAs debo cursar en el tercer trimestre
+Chatbot: Adiós
+Usuario: Hola. Estudio computación y quiero saber que UEAs debo cursar en el tercer trimestre
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: Hola. Estudio computación y quiero saber que UEAs debo cursar en el tercer trimestre
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: Hola. Estudio computación y quiero saber que UEAs debo cursar en el tercer trimestre
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: Hola. Estudio computación y quiero saber que UEAs debo cursar en el tercer trimestre
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: Estudio computación
+Chatbot: Adiós
+Usuario:  que UEAs debo cursar en el tercer trimestre
+Chatbot: Adiós
+Usuario: estudio computacion
+Usuario:  que UEAs debo cursar en el tercer trimestre
+Chatbot: En el trimestre 3 tienes las siguientes UEA's:
+- Álgebra Superior II
+- Cálculo I
+- Programación Orientada a Objetos
+- Arquitectura de Computadoras
+- Proyecto de Ingeniería de Software I
+Usuario: Hola. Estudio computación y quiero saber que UEAs debo cursar en el tercer trimestre
+Chatbot: Lo siento, no tengo información sobre en que trimestre estás
+Usuario: Hola. Estudio computación y quiero saber que UEAs debo cursar en el 3er trimestre
+Chatbot: En el trimestre 3 tienes las siguientes UEA's:
+- Álgebra Superior II
+- Cálculo I
+- Programación Orientada a Objetos
+- Arquitectura de Computadoras
+- Proyecto de Ingeniería de Software I
+Usuario: Que materias debo de cursar en el quinto trimestre de adminnistración
+Chatbot: Adiós
+Usuario: - Proyecto de Ingeniería de Software I  Que materias debo de cursar en el quinto trimestre de adminnistración
+Usuario: Que materias debo de cursar en el quinto trimestre de administración
+Usuario: Que materias debo de cursar en el quinto trimestre de adminnistracion
+Usuario: Que materias debo de cursar en el quinto trimestre de administracion
+Chatbot: Lo siento, no tengo información sobre la UEA Proyecto de Ingeniería de Software I. Por favor verifica que el nombre sea correcto
+Usuario: Que materias debo de cursar en el quinto trimestre de administracion
+Chatbot: Lo siento, no tengo información sobre que UEA deseas serializar
+Usuario: estudio la carrera de diseño y estoy en el trimestre 5, que materias tengo que cursar?
+Chatbot: En el trimestre 5 tienes las siguientes UEA's:
+- Diseño y Sociedad
+- Taller de Representación y Expresión Digital Bidimensional
+- Taller de Procesos y Tecnologías para la Producción de Modelos, Prototipos y Originales
+- Laboratorio de Diseño Integral III
+Usuario: que carrera estudio
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: estudio la carrera de diseño y estoy en el trimestre 5, que materias tengo que cursar?
+Chatbot: En el trimestre 5 tienes las siguientes UEA's:
+- Diseño y Sociedad
+- Taller de Representación y Expresión Digital Bidimensional
+- Taller de Procesos y Tecnologías para la Producción de Modelos, Prototipos y Originales
+- Laboratorio de Diseño Integral III
+Usuario: Cual es la serialización de Laboratorio de Diseño Integral III
+Chatbot: Para cursar la UEA Laboratorio de Diseño Integral III necesitas haber aprobado las siguientes UEA's:
+- Laboratorio de Diseño Integral II
+- Introducción al Pensamiento Matemático
+- Laboratorio de Diseño Integral I
+Y necesitas haber aprobado esta UEA para cursar:
+- Proyecto Terminal I
+- Laboratorio de Diseño Integral de Sistemas de la Información
+- Laboratorio de Diseño Integral de lnformación en los Espacios
+- Laboratorio de Diseño Integral de Sistemas Interactivos
+- Proyecto Terminal II
+Usuario: y en el trimestre 6?
+Chatbot: Adiós
+Usuario: estudio diseño
+Usuario: Hola
+Chatbot: Hola,  ¿en qué te puedo ayudar?
+Usuario: hola
+Chatbot: Hola,  ¿en qué te puedo ayudar?
+Usuario: Hola. Estudió computación
+Chatbot: Lo siento, no tengo información sobre en que trimestre estás
+Usuario: Estudio computacion
+Usuario: que carrera estudio
+Chatbot: Estudias la carrera de Ingeniería de en Computación.
+Usuario: Estudio la carrera de Ingenieria Civil
+Usuario: que carrera estudio
+Chatbot: Indicaste que estudias la carrera de Ingenieria Civil, pero no tengo información sobre ella.
+Usuario: estudio computacion y quiero saber que materias debo cursa en el trimestre 6
+Chatbot: Lo siento, no tengo información sobre en que trimestre estás
+Usuario: Hola. Estudio computación y quiero saber que ueas debo cursar en el quinto trimestre
+Chatbot: En el trimestre 5 tienes las siguientes UEA's:
+- Estructuras de Datos No Lineales
+- Probabilidad y Estadística
+- Microcontroladores
+Usuario: y el sexto
+Chatbot: En el trimestre 6 tienes las siguientes UEA's:
+- Análisis y Diseño de Algoritmos
+- Sistemas Operativos
+- Análisis y Diseño Orientado a Objetos
+- Bases de Datos
+Usuario: que optativas puedo cursar
+Usuario: que optativas hay en la carrera de diseño
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: cuales son las optativas de matematicas
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: cuales son las optativas de matematicas
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: cuales son las optativas de computacion
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: cuales son las optativas de computacion
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: cuales son las optativas de computacion
+Usuario: cuales son las optativas de computacion
+Chatbot: Las UEA's optativas de orientación que ofrece la carrera de computacion que puedes cursar son:
+- Computación Evolutiva
+- Inteligencia de Enjambre
+- Aprendizaje Automático
+- Seguridad
+- Administración y Configuración de Redes de Computadoras
+- Algoritmos Distribuidos
+- Programación para Móviles
+- Bases de Datos Avanzadas
+- Datos a Gran Escala
+- Minería de Datos
+- Visualización y Graficación
+- Visualización y Dispositivos Sensoriales
+- Diseño de Interfaces Avanzadas
+- Graficación por Computadora
+- Procesamiento de Imágenes
+- Visión Computacional
+- Ingeniería de Pruebas
+- Metodologías Ágiles de Desarrollo de Software
+- Patrones de Diseño y Arquitectura de Software
+- Desarrollo de Aplicaciones Web
+- Temas Selectos en Computación I
+- Temas Selectos en Computación II
+- Temas Selectos en Computación III
+Usuario: estudio diseño, de entre cuales optativas puedo cursar?
+Chatbot: Las UEA's optativas de orientación que ofrece la carrera de diseño que puedes cursar son:
+- Diseño de Materiales Interactivos y Página Web
+- Diseño de Interfaz Digital
+- Modelado 3D
+- Hipertexto e Hipermedios
+- Infografía
+- Dirección y Cuidado Editorial
+- Lenguaje Cinematográfico
+- Taller de Guión
+- Principios de Animación
+- Animación Digital
+- Producción
+- Posproducción Audiovisual
+- Escenografía
+- Museografía
+- Espacios de Exhibición
+- Señalética
+- Integración de Producto
+- Ingeniería de Manufactura
+- Materiales y Procesos de Producción
+- Envase y Embalaje
+- Control de Calidad
+- Punto de Venta
+- Ergonomía e Interfase Humana
+- Procesos de Automatización
+- Simulación y Modelización
+- Diseño Tipográfico
+- Diseño Editorial
+- Ilustración
+- Ilustración Digital
+- Cartel
+Usuario: que clases optativas hay en tecnologias
+Chatbot: Las UEA's optativas de orientación que ofrece la carrera de tecnologias que puedes cursar son:
+- Bases de Datos Avanzadas
+- Seminario de Sistemas de Información I
+- Seminario de Sistemas de Información II
+- Inteligencia Artificial II (Aprendizaje)
+- Seminario de Sistemas Inteligentes I
+- Seminario de Sistemas Inteligentes II
+- Computación Inalámbrica y Móvil
+- Seminario de Tecnologías de la Información I
+- Seminario de Tecnologías de la Información II
+Usuario: que materias se cursan en el primer trimestre de administracion
+Chatbot: En el trimestre 1 tienes las siguientes UEA's:
+- Introducción al Pensamiento Matemático
+- Taller de Literacidad Académica
+- Introducción al Conocimiento de la Administración
+- Seminario sobre Sustentabilidad
+Usuario: que clases se cursan en el trimestre 12 de computacion
+Chatbot: En el trimestre 12 tienes las siguientes UEA's:
+- Traductores
+- Proyecto Terminal III
+- Optativas de Orientación
+- Optativas Divisionales e Interdivisionales
+Usuario: cual es la clave de teoria de automatas
+Chatbot: Lo siento, no tengo información sobre que UEA deseas consultar
+Usuario: cual es la clave de administración y configuracion de redes de computadora
+Chatbot: Lo siento, no tengo información sobre que UEA deseas consultar
+Usuario: que carrera estudio
+Chatbot: Estudias la carrera de Ingeniería de en Computación.
+Usuario: cual es la clave de administracion y configuracion de redes de computadoras
+Usuario: administración y configuración de redes de computadora
+Chatbot: Lo siento, no tengo información sobre que UEA deseas consultar
+Usuario: cual es la clave de sistemas operativos
+Chatbot: Lo siento, no tengo información sobre que UEA deseas consultar
+Usuario: cual es la clave de taller de matematicas
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: que información tienes de taller de matematicas
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: estudio computacion
+Usuario: cual es la clave de administración y configuracion de redes de computadoras
+Chatbot: Lo siento, no tengo información sobre que UEA deseas consultar
+Usuario: cual es la clave de administración y configuracion de redes de computadoras
+Chatbot: Lo siento, no tengo información sobre que UEA deseas consultar
+Usuario: cual es la clave de administración y configuracion de redes de computadoras
+Chatbot: Lo siento, no tengo información sobre que UEA deseas consultar
+Usuario: cual es la serializacion de sistemas operativos
+Chatbot: Lo siento, no tengo información sobre que UEA deseas serializar
+Usuario: cual es la clave de administración y configuracion de redes de computadoras
+Chatbot: La UEA Taller de Literacidad Académica tiene la siguiente información:
+- Clave: 4000008
+- Trimestre: 1
+- Créditos: 9
+Usuario: cual es la serializacion de administración y configuracion de redes de computadoras
+Chatbot: No hay ninguna UEA que necesites cursar para poder cursar la UEA Taller de Literacidad Académica.
+Esta UEA no es requisito para ninguna otra UEA
+Usuario: cual es la serializacion de administración y configuracion de redes de computadoras
+Chatbot: No hay ninguna UEA que necesites cursar para poder cursar la UEA Taller de Literacidad Académica.
+Esta UEA no es requisito para ninguna otra UEA
+Usuario: cual es la serializacion de administración y configuración de redes de computadoras
+Chatbot: No hay ninguna UEA que necesites cursar para poder cursar la UEA Administración y Configuración de Redes de Computadoras.
+Esta UEA no es requisito para ninguna otra UEA
+Usuario: que informacion tienes de sistemas operativos
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: estudio computacion
+Usuario: que información tienes de sistemas operativos
+Chatbot: La UEA Sistemas Operativos tiene la siguiente información:
+- Clave: 4604043
+- Trimestre: 6
+- Créditos: 11
+Usuario: que información tienes de aprendizaje automatico
+Chatbot: La UEA Aprendizaje Automático tiene la siguiente información:
+- Clave: 4601124
+- Trimestre: 0
+- Créditos: 9
+Usuario: cuando se cursan las optativas de movilidad
+Chatbot: Las UEA's optativas de orientación que ofrece la carrera de computacion que puedes cursar son:
+- Computación Evolutiva
+- Inteligencia de Enjambre
+- Aprendizaje Automático
+- Seguridad
+- Administración y Configuración de Redes de Computadoras
+- Algoritmos Distribuidos
+- Programación para Móviles
+- Bases de Datos Avanzadas
+- Datos a Gran Escala
+- Minería de Datos
+- Visualización y Graficación
+- Visualización y Dispositivos Sensoriales
+- Diseño de Interfaces Avanzadas
+- Graficación por Computadora
+- Procesamiento de Imágenes
+- Visión Computacional
+- Ingeniería de Pruebas
+- Metodologías Ágiles de Desarrollo de Software
+- Patrones de Diseño y Arquitectura de Software
+- Desarrollo de Aplicaciones Web
+- Temas Selectos en Computación I
+- Temas Selectos en Computación II
+- Temas Selectos en Computación III
+Usuario: que necisito para cursar movilidad
+Chatbot: Para realizar la movilidad se debe:
+ - Tener cubierto al menos el 50% de los créditos académicos del plan de estudios al que pertenecen.
+ - Estar inscrito al trimestre correspondiente con o sin carga académica.
+ - Contar con 8.0 un promedio mínimo para postular a la mayoría de universidades y para la unidad Azcapozalco.
+ - Para las licenciaturas en Administración, Derecho, Diseño, Ciencias de la Comunicación e Ingeniería en Computación, es necesario tener cubierto el nivel de formación básica.
+Usuario: que materias necesito haber aprobado para cursar movilidad
+Chatbot: Lo siento, no tengo información sobre que UEA deseas serializar
+Usuario: que ueas no me permiten hacer movilidad
+Chatbot: Para poder iniciar la movilidad necesitas cursar las siguientes UEA's:
+- Introducción al Pensamiento Matemático
+- Taller de Literacidad Académica
+- Taller de Matemáticas
+- Seminario de sustentabilidad
+- Álgebra Superior I
+- Álgebra Superior II
+- Introducción al Cálculo
+- Cálculo I
+- Cálculo II
+- Taller de Algoritmos
+- Programación Estructurada
+- Estructuras de Datos Lineales
+- Estructuras de Datos No Lineales
+- Álgebra Lineal I
+- Programación Orientada a Objetos
+- Arquitectura de Computadoras
+- Fundamentos de Ingeniería de Software
+- Proyecto de Ingeniería de Software I
+- Análisis y Diseño de Algoritmos
+- Sistemas Digitales
+- Probabilidad y Estadística
+Usuario: si debo materias puedo irme de movilidad
+Chatbot: Para cumplir con los requisitos de movilidad, se tienen tres tipos de intercambios: - Nacional: Se puede ir a universidades nacionales que tienen convenio con la UAM - Internacional: Se puede ir a universidades internacionales que tienen convenio con la UAM - Intra-UAM: Se puede ir a otra unidad de la UAM
+Usuario: estudio  tecnologias
+Usuario: que ueas no me permiten hacer movilidad
+Chatbot: No hay materias necesarias para iniciar la movilidad
+Usuario: hola. quiero informacion sobre como hacer mi servicio social
+Chatbot: Puedo proporcionarte información sobre el servicio social, los requisitos para realizarlo, algunas dudas frecuentes y los pasos a seguir para completarlo.
+Usuario: que necesito para hacer mi servicio social
+Chatbot: Para hacer servicio social necesitas: - Haber aprobado el 70% de los créditos de tu plan de estudios (aproximadamente el 9no trimestre).
+Usuario: como empiezo a hacerlo
+Chatbot: Lo primero que se debe de hacer es consultar los proyectos activos para el servicio social. Para esto te debes de diregir a la página http://sigess2.cua.uam.mx/alumno/al_step1.php, proporcionar la matricula y el apellido paterno. Despúes se enviara al correo institucional una liga y una contraseña para consultar los proyectos activos.
+Usuario: despues
+Chatbot: Una vez que se tiene acceso al sitio se puede revisar las propuestas.
+ Si se encuentra un proyecto de interes, se debe de contactar al responsable del proyecto confimar disponibilidad y que se cumplan los requisitos.
+Usuario: donde puedo obtener mas informacion sobre la carrera de computacion
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: donde puedo ver el correo del correo del coordinador de la carrera de tecnologias
+Usuario: que se estudia en la uea sistemas digitales
+Chatbot: Lo siento, no tengo información sobre la UEA sistemas digitales. Por favor verifica que el nombre sea correcto
+Usuario: donde puedo encontrar mas informacion sobre la uea taller de matematicas
+Usuario: donde puedo conseguir el correo del coordinador de la carrera de derecho
+Usuario: donde puedo conseguir el correo del coordinador de la carrera de derecho
+Usuario: donde puedo conseguir el correo del coordinador de la carrera de derecho
+Usuario: que se estudio en la uea de sistemas digitales en computacion
+Chatbot: La UEA Sistemas Digitales tiene la siguiente información:
+- Clave: 4604040
+- Trimestre: 2
+- Créditos: 8
+Usuario: donde puedo ver mas informacion
+Chatbot: La página de la carrera de Ingeniería de en Computación es https://dcni.cua.uam.mx/oferta/computacion
+Usuario: donde puedo conseguir el correo del coordinador de la carrera de derecho
+Chatbot: La página de la carrera de Derecho es https://dcsh.cua.uam.mx/derecho-licenciatura/presentacion-licenciatura-derecho/
+Usuario: Hola
+Chatbot: Hola,  ¿en qué te puedo ayudar?
+Usuario: que optativas hay en la carrera de diseño
+Chatbot: Las UEA's optativas de orientación que ofrece la carrera de diseño que puedes cursar son:
+- Diseño de Materiales Interactivos y Página Web
+- Diseño de Interfaz Digital
+- Modelado 3D
+- Hipertexto e Hipermedios
+- Infografía
+- Dirección y Cuidado Editorial
+- Lenguaje Cinematográfico
+- Taller de Guión
+- Principios de Animación
+- Animación Digital
+- Producción
+- Posproducción Audiovisual
+- Escenografía
+- Museografía
+- Espacios de Exhibición
+- Señalética
+- Integración de Producto
+- Ingeniería de Manufactura
+- Materiales y Procesos de Producción
+- Envase y Embalaje
+- Control de Calidad
+- Punto de Venta
+- Ergonomía e Interfase Humana
+- Procesos de Automatización
+- Simulación y Modelización
+- Diseño Tipográfico
+- Diseño Editorial
+- Ilustración
+- Ilustración Digital
+- Cartel
+Usuario: que informacioón hay de la uea Cartel
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: que me puedes decir de la uea Cartel
+Chatbot: Puedo ayudarte con información sobre el plan de estudios e información relacionada a la carrera, información sobre el proceso para realizar el servicio social, la titulación y los sistemas escolares de la UAM.
+Usuario: cual es la clave de cartel
+Chatbot: La UEA Cartel tiene la siguiente información:
+- Clave: 450071
+- Trimestre: 0
+- Créditos: 6
+Usuario: que información tienes de ilustración
+Usuario: que información tienes de ilustración
+Usuario: estudion computacion
+Usuario: que carrera estudio
+Chatbot: Estudias la carrera de Ingeniería de en Computación.
+Usuario: estudio diseñó
+Usuario: que información tienes de ilustración
+Usuario: que carrera estudio
+Chatbot: Adiós
+Usuario: estudio diseñó
+Usuario: que información tienes de ilustración
+Usuario: que información tienes de ilustración
+Usuario: cual es la serializacion de ilustracion
+Chatbot: Lo siento, no tengo información sobre que carrera estudias
+Usuario: estudio diseñó
+Usuario: cual es la serializacion de ilustracion
+Usuario: estudio diseño
+Usuario: cual es la serializacion de ilustracion
+Chatbot: La UEA Ilustración tiene la siguiente información:
+- Es una UEA optativa
+- Clave: 450068
+- La UEA se puede cursar en los siguientes trimestres:
+  - 10
+  - 11
+  - 12
+- Créditos: 6
+Usuario: quee informacion tienes de ilustracion
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?
+Usuario: que información tienes de ilustración
+Chatbot: La UEA Ilustración tiene la siguiente información:
+- Es una UEA optativa
+- Clave: 450068
+- La UEA se puede cursar en los siguientes trimestres:
+  - 10
+  - 11
+  - 12
+- Créditos: 6
+Usuario: que información tienes de ilustración
+Chatbot: La UEA Ilustración tiene la siguiente información:
+- Es una UEA optativa
+- Clave: 450068
+- La UEA se puede cursar en los siguientes trimestres:
+ 	- 10
+ 	- 11
+ 	- 12
+- Créditos: 6
+Usuario: que información tienes de cartel
+Chatbot: La UEA Cartel tiene la siguiente información:
+- Es una UEA optativa
+- Clave: 450071
+- La UEA se puede cursar en los trimestres: 10, 11, 12
+- Créditos: 6
+Usuario: que necesito para cursar mis optativas de movilidad
+Chatbot: Las UEA's optativas de orientación que ofrece la carrera de diseño que puedes cursar son:
+- Diseño de Materiales Interactivos y Página Web
+- Diseño de Interfaz Digital
+- Modelado 3D
+- Hipertexto e Hipermedios
+- Infografía
+- Dirección y Cuidado Editorial
+- Lenguaje Cinematográfico
+- Taller de Guión
+- Principios de Animación
+- Animación Digital
+- Producción
+- Posproducción Audiovisual
+- Escenografía
+- Museografía
+- Espacios de Exhibición
+- Señalética
+- Integración de Producto
+- Ingeniería de Manufactura
+- Materiales y Procesos de Producción
+- Envase y Embalaje
+- Control de Calidad
+- Punto de Venta
+- Ergonomía e Interfase Humana
+- Procesos de Automatización
+- Simulación y Modelización
+- Diseño Tipográfico
+- Diseño Editorial
+- Ilustración
+- Ilustración Digital
+- Cartel
+Usuario: que necesito para tramitar mi titulo de computacion
+Chatbot: Para tramitar tu título necesitan los siguientes documentos:
+ - Pago de Título Profesional: Costos: $24.00 Mexicanos $120.00 Extranjeros.
+ - Acta de nacimiento original.
+ - Certificado de bachillerato original.
+ - Constancia de idioma.
+ - CURP.
+ - Constancia de liberación de Servicio Social.
+ Además se debió de haber tramitado el certificado total de estudios.
+Usuario: que necesito para tramitar el certificado total de estudios
+Chatbot: Al tramitar el certificado total de estudios se cambia el estado académico a egresado lo cuál habilita el Módulo de Egresados para el tramite de titulacion.
+ El módulo se accede a traves de la página: https://www.cua.uam.mx/oferta-educativa/lenguas/formas-de-acreditacion/constancias-de-acreditacion. La contraseña de acceso es la misma que se utiliza para el Módulo de Información Escolar.
+Usuario: que necesito para tramitar el certificado total de estudios
+Chatbot: Al tramitar el certificado total de estudios se cambia el estado académico a egresado lo cuál habilita el Módulo de Egresados para el tramite de titulacion.
+ El módulo se accede a traves de la página: https://siae.uam.mx:8443/sae/egr/AERCWBEGM001. La contraseña de acceso es la misma que se utiliza para el Módulo de Información Escolar.
+Usuario: cuales son los requisitos para graduarse de la carrera de computacion
+Chatbot: Para poder cursar la carrera de computacion necesitas los siguientes requisitos:
+- Haber acreditado un mínimo de 463 créditos, tal y como lo marca el plan de estudios.
+- Haber obtenido la certificación del manejo de las cuatro habilidades del idioma inglés (comprensión de textos, escritura, comprensión auditiva, y expresión oral) en el nivelintermedio, expedida por la Coordinación del Programa de Lenguas Extranjeras de laUnidad Cuajimalpa o por cualquier institución de enseñanza de las lenguas extranjerasreconocida por la UAM. Para el caso de extranjeros cuya lengua materna no sea el español,deberán acreditar el nivel avanzado de esta lengua.
+- Haber cumplido con el Servicio Social, de acuerdo con el Reglamento de Servicio Social a Nivel de Licenciatura de la UAM.
+Usuario: como tramito el cerstifica total de estudios
+Chatbot: Para tramitar tu certificado total de estudios necesitas:
+ - Cubrir el 100% de los créditos de tu plan de estudios.
+ - 2 fotografías a color tamaño infantil en papel mate, con retoque y fondo blanco.
+ - Efectuar el pago de:
+ $8.60 por cada certificado solicitado, más $1.00 de la revisión de estudios para alumnado mexicano,
+ $43.00 por cada certificado solicitado, más $5.00 de la revisión de estudios para alumnado extranjero.
+ El pago se efectúa en la caja de la Unidad
+Usuario: que hago al terminar de cursar todas las materias
+Chatbot: Lo siento, no tengo información sobre que UEA deseas serializar
+Usuario: que necesito para tramitar el certificado total de estudios
+Chatbot: Al tramitar el certificado total de estudios se cambia el estado académico a egresado lo cuál habilita el Módulo de Egresados para el tramite de titulacion.
+ El módulo se accede a traves de la página: https://siae.uam.mx:8443/sae/egr/AERCWBEGM001. La contraseña de acceso es la misma que se utiliza para el Módulo de Información Escolar.
+Usuario: que necesito para cursar movilidad
+Chatbot: Para realizar la movilidad se debe:
+ - Tener cubierto al menos el 50% de los créditos académicos del plan de estudios al que pertenecen.
+ - Estar inscrito al trimestre correspondiente con o sin carga académica.
+ - Contar con 8.0 un promedio mínimo para postular a la mayoría de universidades y para la unidad Azcapozalco.
+ - Para las licenciaturas en Administración, Derecho, Diseño, Ciencias de la Comunicación e Ingeniería en Computación, es necesario tener cubierto el nivel de formación básica.
+Usuario: como puedo hacer las optativas de movilidad
+Chatbot: Para realizar la movilidad se debe:
+ - Tener cubierto al menos el 50% de los créditos académicos del plan de estudios al que pertenecen.
+ - Estar inscrito al trimestre correspondiente con o sin carga académica.
+ - Contar con 8.0 un promedio mínimo para postular a la mayoría de universidades y para la unidad Azcapozalco.
+ - Para las licenciaturas en Administración, Derecho, Diseño, Ciencias de la Comunicación e Ingeniería en Computación, es necesario tener cubierto el nivel de formación básica.
+Usuario: cuanto aportan las optativas de movilidad
+Chatbot: La movilidad se puede hacer en cualquier momento una vez se cumplan los requisitos.
+Usuario: cuanto aportan las optativas de movilidad de intercambio
+Chatbot: La movilidad se puede hacer en cualquier momento una vez se cumplan los requisitos.
+Usuario: cuanto aportan las optativas de orientacion
+Chatbot: Las UEA's optativas de orientación que ofrece la carrera de computacion que puedes cursar son:
+- Computación Evolutiva
+- Inteligencia de Enjambre
+- Aprendizaje Automático
+- Seguridad
+- Administración y Configuración de Redes de Computadoras
+- Algoritmos Distribuidos
+- Programación para Móviles
+- Bases de Datos Avanzadas
+- Datos a Gran Escala
+- Minería de Datos
+- Visualización y Graficación
+- Visualización y Dispositivos Sensoriales
+- Diseño de Interfaces Avanzadas
+- Graficación por Computadora
+- Procesamiento de Imágenes
+- Visión Computacional
+- Ingeniería de Pruebas
+- Metodologías Ágiles de Desarrollo de Software
+- Patrones de Diseño y Arquitectura de Software
+- Desarrollo de Aplicaciones Web
+- Temas Selectos en Computación I
+- Temas Selectos en Computación II
+- Temas Selectos en Computación III
+Usuario: que informacion tienes de las optativas de orientación
+Chatbot: Las UEA's optativas de orientación que ofrece la carrera de computacion que puedes cursar son:
+- Computación Evolutiva
+- Inteligencia de Enjambre
+- Aprendizaje Automático
+- Seguridad
+- Administración y Configuración de Redes de Computadoras
+- Algoritmos Distribuidos
+- Programación para Móviles
+- Bases de Datos Avanzadas
+- Datos a Gran Escala
+- Minería de Datos
+- Visualización y Graficación
+- Visualización y Dispositivos Sensoriales
+- Diseño de Interfaces Avanzadas
+- Graficación por Computadora
+- Procesamiento de Imágenes
+- Visión Computacional
+- Ingeniería de Pruebas
+- Metodologías Ágiles de Desarrollo de Software
+- Patrones de Diseño y Arquitectura de Software
+- Desarrollo de Aplicaciones Web
+- Temas Selectos en Computación I
+- Temas Selectos en Computación II
+- Temas Selectos en Computación III
+Usuario: que se necesita para cursar proyecto terminal i
+Chatbot: No hay ninguna UEA que necesites cursar para poder cursar la UEA Proyecto Terminal I.
+Y necesitas haber aprobado esta UEA para cursar:
+- Proyecto Terminal III
+- Proyecto Terminal II
+Usuario: donde puedo ver los profesores de la carrera de diseño
+Chatbot: La página de la carrera de Diseño es http://dccd.cua.uam.mx/Licenciatura_en_Diseno
+Usuario: como hago el servicio social
+Chatbot: Lo primero que se debe de hacer es consultar los proyectos activos para el servicio social. Para esto te debes de diregir a la página http://sigess2.cua.uam.mx/alumno/al_step1.php, proporcionar la matricula y el apellido paterno. Despúes se enviara al correo institucional una liga y una contraseña para consultar los proyectos activos.
+Usuario: cuando puedo hacer el servicio social
+Chatbot: Para hacer servicio social necesitas: - Haber aprobado el 70% de los créditos de tu plan de estudios (aproximadamente el 9no trimestre).
+Usuario: como puedo contactar al coordinador de mi carrera
+Chatbot: La página de la carrera de Diseño es http://dccd.cua.uam.mx/Licenciatura_en_Diseno
+Usuario: que informacion tienes del seminario de sustentabilidad
+Chatbot: Lo siento, no tengo información sobre la UEA seminario de sustentabilidad. Por favor verifica que el nombre sea correcto
+Usuario: que informacion tienes del seminario sobre sustentabilidad
+Chatbot: Puedo proporcionarte información sobre los requisitos para titularse, los pasos a seguir para realizar el trámite, dudas frecuente y los documentos necesarios para completar el proceso.
+Usuario: que informacion tienes del seminario sobre sustentabilidad
+Chatbot: Puedo proporcionarte información sobre los requisitos para titularse, los pasos a seguir para realizar el trámite, dudas frecuente y los documentos necesarios para completar el proceso.
+Usuario: que informacion tienes sobre el seminario de sustentabilidad
+Chatbot: Puedo proporcionarte información sobre los requisitos para titularse, los pasos a seguir para realizar el trámite, dudas frecuente y los documentos necesarios para completar el proceso.
+Usuario: hola. estudio computación
+Usuario: que informacion tienes sobre el seminario sobre sustentabilidad
+Chatbot: Puedo proporcionarte información sobre los requisitos para titularse, los pasos a seguir para realizar el trámite, dudas frecuente y los documentos necesarios para completar el proceso.
+Usuario: que información tienes del seminario de sustentabilidad
+Chatbot: La UEA Seminario de sustentabilidad tiene la siguiente información:
+- Es una UEA obligatoria
+- Clave: 4000007
+- Se recomienda cursarse en el trimestre: 1
+- Créditos: 6
+Usuario: me puedes dar mas informacion
+Chatbot: El plan de estudios de todas las carreras y el programa de estudios de cada UEA se puede encontrar en la página: https://www.uam.mx/licenciaturas/licenciaturas_por_unidad.html
+Usuario: cual es la clave de Guion en la carrera de comunicacion
+Chatbot: La UEA Guion tiene la siguiente información:
+- Es una UEA obligatoria
+- Clave: 4502092
+- Se recomienda cursarse en el trimestre: 3
+- Créditos: 8
+Usuario: cual es su serializacion
+Chatbot: Lo siento, no tengo información sobre que UEA deseas serializar
+Usuario: cual es la serializacion de guion
+Chatbot: No hay ninguna UEA que necesites cursar para poder cursar la UEA Guion.
+Esta UEA no es requisito para ninguna otra UEA
+Usuario: CUAL ES LA UEA CON LA VLAVE 501027
+Chatbot: Lo siento, no tengo UEAs con la clave501027
+Usuario: CUAL ES LA UEA CON LA CLAVE 4501027
+Chatbot: La UEA Proyecto Terminal II tiene la siguiente información:
+- Es una UEA obligatoria
+- Clave: 4501027
+- Se recomienda cursarse en el trimestre: 12
+- Créditos: 12
+Usuario: donde puedo ver las materias que se impartiran este trimestres
+Chatbot: Lo siento, no entendí. ¿Puedes repetirlo?

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='chat.css') }}">
+		<link id="two" rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<title>ChatBot UAM-C</title>
+	</head>
+	<body>
+		<div id="full_screen">
+			<h1><a href="{{url_for('home')}}" id="main-title">ChatBot UAM-C</a></h1>
+			<div id="info">
+				<p><span> Hola. Soy un chatbot diseñado para contestar preguntas frecuentes sobre la licenciaturas en la UAM Cuajimalpa</span></p>
+				<p><span>Puedes preguntarme sobre mis capacidades o puedes consulta ejemplos de uso en <a href="{{ url_for('ejemplos')}}" id="ejemplos-link">aquí</a>.</span></p>
+
+				<div id="container">
+					<div id="chatbox">
+						
+					</div>
+					<div id="userInput">
+						<input id="textInput" type="text" name="msg" placeholder="Consulta">
+						<button id="buttonInput" type="submit"><i class="fa fa-send"></i></button>
+					</div>
+					<script>
+						var usuarioId  = {{ usuarioId }};
+						function urlify(text) {
+							var urlRegex = /(https?:\/\/[^\s]+)/g;
+							return text.replace(urlRegex, function(url) {
+								return '<a href="' + url + '" target="_blank">' + url + '</a>';
+							})
+							// or alternatively
+							// return text.replace(urlRegex, '<a href="$1">$1</a>')
+						}
+						function getBotResponse() {
+							var rawText = $("#textInput").val();
+							var userHtml = '<div class="userContainer"><div class="userText">' + rawText + '</div></div>';
+							$("#textInput").val("");
+							$("#chatbox").append(userHtml);
+							//$("#chatbox").scrollTop(999999999);
+							$("#chatbox").animate({ scrollTop: $("#chatbox").prop("scrollHeight") }, 700);
+							//document.getElementById('userText').scrollIntoView({block: 'start', behavior: 'smooth'});
+							$.get("/get", { msg: rawText , id: usuarioId }).done(function(data) {
+								var botHtml = '<div class="botContainer"><div class="botText">' + urlify(data.replace(/\n/g, "<br/>")) + '</div></div>';
+								$("#chatbox").append(botHtml);
+								//$("#chatbox").scrollTop(999999999);
+								$("#chatbox").animate({ scrollTop: $("#chatbox").prop("scrollHeight") }, 700);
+								//document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+							});
+						}
+						$("#textInput").keypress(function(e) {
+							if(e.which == 13) {
+								getBotResponse();
+							}
+						});
+						$("#buttonInput").click(function() {
+							getBotResponse();
+						})
+					</script>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

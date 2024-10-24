@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='chat.css') }}">
+		<link id="two" rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <title>Ejemplos - ChatBot UAM-C</title>
+	</head>
+	<body>
+		<div id="full_screen">
+			<h1><a href="{{url_for('home')}}" id="main-title">ChatBot UAM-C</a></h1>
+			<div id="info">
+				<h3><span>Caso de uso 1: Consulta de UEA's</span></h3>
+				<p><span>Este ChatBot te obtener información sobre las UEAs de tu carrera, por ejemplo, que UEA's se toman en cada trimestre o la serialización de una UEA</span></p>
+				<div id="container">
+					<div id="chatbox">
+						<div class="userContainer"><div class="userText"> estudio la carrera de diseño y estoy en el trimestre 5, que materias tengo que cursar? </div></div>
+                        <div class="botContainer"><div class="botText">
+                            En el trimestre 5 tienes las siguientes UEA's:<br/>
+                            - Diseño y Sociedad<br/>
+                            - Taller de Representación y Expresión Digital Bidimensional<br/>
+                            - Taller de Procesos y Tecnologías para la Producción de Modelos, Prototipos y Originales<br/>
+                            - Laboratorio de Diseño Integral III<br/>
+                        </div></div>
+                        <div class="userContainer"><p class="userText"> Cual es la serialización de Laboratorio de Diseño Integral III </p></div>
+                        <div class="botContainer"><div class="botText">
+                            Para cursar la UEA Laboratorio de Diseño Integral III necesitas haber aprobado las siguientes UEA's:<br/>
+                            - Laboratorio de Diseño Integral II<br/>
+                            - Introducción al Pensamiento Matemático<br/>
+                            - Laboratorio de Diseño Integral I<br/>
+                            Y necesitas haber aprobado esta UEA para cursar:<br/>
+                            - Proyecto Terminal I<br/>
+                            - Laboratorio de Diseño Integral de Sistemas de la Información<br/>
+                            - Laboratorio de Diseño Integral de lnformación en los Espacios<br/>
+                            - Laboratorio de Diseño Integral de Sistemas Interactivos<br/>
+                            - Proyecto Terminal II<br/>
+                        </div></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
